@@ -1,0 +1,67 @@
+.estiloborde{
+    border-style: double;
+}
+.anchoborde{
+    border-width: 3em;
+}
+.colorborde{
+    border-color: papayawhip;;
+}
+.dimensioncapa{
+    width: 60%;
+    height: 500px;
+    margin: auto;
+}
+.bordeizquierdo{
+    border-left-color: peru;
+    border-left-style: groove;
+    border-left-width: 48px;
+}
+.bordederecho{
+    border-right-color: orange;
+    border-right-style: groove;
+    border-right-width: 36px;
+}
+.bordesuperior{
+    border-top-color: antiquewhite;
+    border-top-style: groove;
+    border-top-width: 18px;
+}
+.bordeinferior{
+    border-bottom-color: oldlace;
+    border-bottom-style: groove;
+    border-bottom-width: 36px;
+}
+.borderedondeado{
+    border-radius: 10px;
+    border: 2px solid orange;
+}
+.capaizq{
+    float: left;
+    width: 20%;
+    height: 200px;
+    border: 1px double green;
+}
+.capacentr{
+    float: left;
+    width: 60%;
+    height: 200px;
+    border: 1px double pink;
+}
+.capadere{
+    float:   ;
+    width: 20%;
+    height: 200px;
+    border: 1px double royalblue;
+}
+.contenedor{
+    width: 100%;
+    margin: auto;
+}
+.contenedorcapasboxs{
+    width: 100%;
+    margin-top: 50px;
+}
+.boxsizing{
+    box-sizing: border-box;
+}
