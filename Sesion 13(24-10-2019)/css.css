@@ -1,0 +1,17 @@
+.dimensioncapa{
+    width: 70%;
+    height: 400px;
+    margin: auto;
+    border: solid 1px black;
+}
+.padindere{
+    padding: 30px 40px 50px 60px;
+}
+.padinggeneral{
+    padding: 120px 120px 120px 120px;
+}
+.capaconmarginleft{
+    width: 50%;
+    margin-left: 15%;
+    min-height: 400px;
+}
