@@ -1,0 +1,16 @@
+ol{
+    list-style-position: outside;
+}
+li{
+    list-style-position: inside;
+}
+
+/* Selector descendente */
+div p{
+    color: green;
+}
+
+/* Selector hijos */
+p > a{
+    color: purple;;
+}
