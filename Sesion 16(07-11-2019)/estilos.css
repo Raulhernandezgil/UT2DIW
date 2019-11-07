@@ -1,0 +1,28 @@
+.displaynone{
+    width:75%;
+    min-height: 500px;
+    border: 1px solid black;
+    display: none;
+}
+.displayinline{
+    color: red;
+    border: 1px solid black;
+    display: inline;
+    width: 600px;/* Es ignorada la propiedad */
+}
+.pruebasimagen{
+    width: 80%;
+    border: 1px solid red;
+    box-sizing: border-box;
+    display: inline;/* Cuidado a pesar de que la norma con diplayu inline no es general que no se puede modificar */
+}
+.displayinlineblock{
+    width: 50%;
+    display: inline-block;
+    border: 2px solid brown;
+}
+.capaoculta{
+    width: 30%;
+    min-height: 20%;
+    visibility: hidden;
+}

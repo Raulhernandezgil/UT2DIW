@@ -1,0 +1,21 @@
+.capagenerica{
+    width: 30%;
+    min-height: 200px;
+}
+.positionstatic{
+    position: static;
+    left: 30px;/* Lo ignora ya que es estatico */
+    border: 1px solid gold;
+}
+.positionrelative{
+    position: relative;
+    left: 200px;
+    top: 300px;
+    border: 1px solid gray;
+}
+.positionrelative2{
+    position: relative;
+    left: 200px;
+    top: 0;
+    border: 1px solid yellow;
+}
