@@ -1,0 +1,31 @@
+.divflotarderecha{
+    float: right;
+}
+.centradodeelementosenbloque{
+    width: 20%;
+    min-height: 200px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.centradoelementoinline{
+    /* De forma cutre */
+    text-align: center;
+}
+.contenedor{
+    width: 80%;
+    min-height: 300px;
+    border: solid 10px black;
+    position: relative;
+}
+.alinearderecha{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+}
+html{
+    background-attachment: fixed;
+    background-image: url("imagenes/3.jpg");
+    background-repeat: round ;
+    background-size: 100%;
+}
